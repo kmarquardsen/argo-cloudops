@@ -12,7 +12,7 @@ require (
 	github.com/go-playground/universal-translator v0.17.0 // indirect
 	github.com/go-playground/validator v9.31.0+incompatible
 	github.com/go-test/deep v1.0.7 // indirect
-	github.com/google/go-cmp v0.5.2
+	github.com/google/go-cmp v0.5.6
 	github.com/google/uuid v1.2.0
 	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/go-retryablehttp v0.6.7 // indirect
@@ -21,11 +21,10 @@ require (
 	github.com/hashicorp/vault/sdk v0.1.14-0.20210127182440-8477cfe632c0 // indirect
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/leodido/go-urn v1.2.1 // indirect
-	github.com/mitchellh/mapstructure v1.3.3 // indirect
-	github.com/spf13/cobra v1.1.3
-	github.com/stretchr/testify v1.6.1
+	github.com/spf13/cobra v1.3.0
+	github.com/stretchr/testify v1.7.0
 	github.com/upper/db/v4 v4.1.0
-	google.golang.org/grpc v1.33.1
+	google.golang.org/grpc v1.42.0
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.19.6
