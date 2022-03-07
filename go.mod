@@ -23,8 +23,8 @@ require (
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/mitchellh/mapstructure v1.3.3 // indirect
 	github.com/spf13/cobra v1.1.3
-	github.com/stretchr/testify v1.6.1
-	github.com/upper/db/v4 v4.1.0
+	github.com/stretchr/testify v1.7.0
+	github.com/upper/db/v4 v4.5.1
 	google.golang.org/grpc v1.33.1
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0
