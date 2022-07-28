@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/argoproj/argo-workflows/v3 v3.0.0-rc3
-	github.com/aws/aws-sdk-go v1.33.16
+	github.com/aws/aws-sdk-go v1.44.64
 	github.com/distribution/distribution v2.7.1+incompatible
 	github.com/go-git/go-billy/v5 v5.3.1 // indirect
 	github.com/go-git/go-git/v5 v5.3.0
