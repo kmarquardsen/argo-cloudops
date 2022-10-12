@@ -22,7 +22,7 @@ require (
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/mitchellh/mapstructure v1.3.3 // indirect
-	github.com/spf13/cobra v1.1.3
+	github.com/spf13/cobra v1.6.0
 	github.com/stretchr/testify v1.6.1
 	github.com/upper/db/v4 v4.1.0
 	google.golang.org/grpc v1.33.1
